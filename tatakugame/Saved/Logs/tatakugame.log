@@ -3852,3 +3852,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.10-02.33.30:483][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.06.10-02.33.30:490][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
 [2023.06.10-02.33.30:537][249]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.06.10-02.34.38:228][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.06.10-02.34.38:829][766]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2023.06.10-02.36.43:267][573]BlueprintLog: New page: enemy をコンパイル
+[2023.06.10-02.36.43:362][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.06.10-02.36.43:860][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miyagi/BP/enemy" FILE="../../../../../../PG/tataku/tatakugame/Content/miyagi/BP/enemy.uasset" SILENT=true
+[2023.06.10-02.36.43:879][588]LogSavePackage: Moving '../../../../../../PG/tataku/tatakugame/Saved/enemy46348D4F4BF6D4E2D72CA6B33C5D09E5.tmp' to '../../../../../../PG/tataku/tatakugame/Content/miyagi/BP/enemy.uasset'
+[2023.06.10-02.36.43:907][588]AssetCheck: New page: アセット保存：enemy
+[2023.06.10-02.36.43:907][588]LogContentValidation: Display: Blueprint /Game/miyagi/BP/enemy.enemy を検証しています
+[2023.06.10-02.39.43:713][159]BlueprintLog: New page: SideScrollerCharacter をコンパイル
+[2023.06.10-02.39.43:922][159]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2023.06.10-02.39.44:412][177]LogSavePackage: Moving '../../../../../../PG/tataku/tatakugame/Saved/SideScrollerCharacterB07EDAEC49ACB24CFD8380B3B08EE358.tmp' to '../../../../../../PG/tataku/tatakugame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2023.06.10-02.39.44:441][177]AssetCheck: New page: アセット保存：SideScrollerCharacter
+[2023.06.10-02.39.44:442][177]LogContentValidation: Display: Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter を検証しています
+[2023.06.10-02.40.18:856][538]BlueprintLog: New page: enemy をコンパイル
+[2023.06.10-02.40.18:961][538]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2023.06.10-02.40.19:547][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miyagi/BP/enemy" FILE="../../../../../../PG/tataku/tatakugame/Content/miyagi/BP/enemy.uasset" SILENT=true
+[2023.06.10-02.40.19:568][555]LogSavePackage: Moving '../../../../../../PG/tataku/tatakugame/Saved/enemy804186524617D6C4D70B5EB33339215F.tmp' to '../../../../../../PG/tataku/tatakugame/Content/miyagi/BP/enemy.uasset'
+[2023.06.10-02.40.19:595][555]AssetCheck: New page: アセット保存：enemy
+[2023.06.10-02.40.19:595][555]LogContentValidation: Display: Blueprint /Game/miyagi/BP/enemy.enemy を検証しています
+[2023.06.10-02.40.22:662][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miyagi/MAP_miyagi_test" FILE="../../../../../../PG/tataku/tatakugame/Content/miyagi/MAP_miyagi_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.10-02.40.22:707][686]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2023.06.10-02.40.22:747][686]LogSavePackage: Moving '../../../../../../PG/tataku/tatakugame/Saved/MAP_miyagi_test47F658274EC004E6A28B029A3F7827D4.tmp' to '../../../../../../PG/tataku/tatakugame/Content/miyagi/MAP_miyagi_test.umap'
+[2023.06.10-02.40.22:808][686]AssetCheck: New page: アセット保存：MAP_miyagi_test
+[2023.06.10-02.40.22:808][686]LogContentValidation: Display: World /Game/miyagi/MAP_miyagi_test.MAP_miyagi_test を検証しています
