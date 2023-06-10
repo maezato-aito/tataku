@@ -1021,3 +1021,118 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.10-01.21.42:968][670]LogContentBrowser: Creating deferred item: 新規フォルダ
 [2023.06.10-01.21.48:022][269]LogContentBrowser: Attempting asset rename: 新規フォルダ -> UMG
 [2023.06.10-01.21.48:023][269]LogContentBrowser: End creating deferred item 新規フォルダ
+[2023.06.10-01.24.07:410][686]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.06.10-01.24.07:425][686]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.06.10-01.24.24:627][749]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> U_Title
+[2023.06.10-01.24.24:635][749]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.06.10-01.24.34:617][918]LogContentBrowser: Attempting asset rename: U_Title -> UMG_Title
+[2023.06.10-01.24.34:652][918]LogMetaData: Removing '/Game/motomura/UMG/UMG_Title.SKEL_UMG_Title_C' ref from Metadata '/Game/motomura/UMG/U_Title.PackageMetaData'
+[2023.06.10-01.24.34:653][918]LogMetaData: Removing '/Game/motomura/UMG/UMG_Title.UMG_Title_C' ref from Metadata '/Game/motomura/UMG/U_Title.PackageMetaData'
+[2023.06.10-01.24.34:653][918]LogMetaData: Removing '/Game/motomura/UMG/UMG_Title.UMG_Title:EventGraph.K2Node_Event_0' ref from Metadata '/Game/motomura/UMG/U_Title.PackageMetaData'
+[2023.06.10-01.24.34:653][918]LogMetaData: Removing '/Game/motomura/UMG/UMG_Title.UMG_Title:EventGraph.K2Node_Event_1' ref from Metadata '/Game/motomura/UMG/U_Title.PackageMetaData'
+[2023.06.10-01.24.34:653][918]LogMetaData: Removing '/Game/motomura/UMG/UMG_Title.UMG_Title:EventGraph.K2Node_Event_2' ref from Metadata '/Game/motomura/UMG/U_Title.PackageMetaData'
+[2023.06.10-01.24.34:671][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/motomura/UMG/UMG_Title" FILE="../../../../../../pg/tataku/tatakugame/Content/motomura/UMG/UMG_Title.uasset" SILENT=true
+[2023.06.10-01.24.34:675][918]LogSavePackage: Moving '../../../../../../pg/tataku/tatakugame/Saved/UMG_Title6B2A327C41944BCACEFE45A7BFF4411A.tmp' to '../../../../../../pg/tataku/tatakugame/Content/motomura/UMG/UMG_Title.uasset'
+[2023.06.10-01.24.34:728][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.10-01.24.34:744][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.10-01.24.34:748][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.10-01.24.34:759][918]LogLinker: Warning:  '/Game/motomura/UMG/U_Title' のロードに失敗しました: ファイルが見つかりません
+[2023.06.10-01.24.34:759][918]LogLinker: Warning:  '/Game/motomura/UMG/U_Title' のロードに失敗しました: ファイルが見つかりません
+[2023.06.10-01.24.34:759][918]LogUObjectGlobals: Warning: オブジェクト 'Object /Game/motomura/UMG/U_Title.U_Title' が見つかりませんでした
+[2023.06.10-01.24.34:759][918]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.06.10-01.24.34:760][918]AssetCheck: New page: アセット保存：UMG_Title
+[2023.06.10-01.24.34:760][918]LogContentValidation: Display: WidgetBlueprint /Game/motomura/UMG/UMG_Title.UMG_Title を検証しています
+[2023.06.10-01.24.39:830][519]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/motomura/UMG/UMG_Title.UMG_Title
+[2023.06.10-01.24.39:957][519]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.06.10-01.24.40:887][519]LogSlate: Took 0.000950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.10-01.24.40:888][519]LogSlate: Took 0.001674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2023.06.10-01.25.43:840][ 13]LogSlate: Took 0.001727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2023.06.10-01.25.43:844][ 13]LogSlate: Took 0.005080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.06.10-01.29.52:280][685]BlueprintLog: New page: UMG_Title をコンパイル
+[2023.06.10-01.29.52:334][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.06.10-01.29.52:859][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/motomura/UMG/UMG_Title" FILE="../../../../../../pg/tataku/tatakugame/Content/motomura/UMG/UMG_Title.uasset" SILENT=true
+[2023.06.10-01.29.52:862][721]LogSavePackage: Moving '../../../../../../pg/tataku/tatakugame/Saved/UMG_TitleDD2669B34AA166CEB992478D724776C3.tmp' to '../../../../../../pg/tataku/tatakugame/Content/motomura/UMG/UMG_Title.uasset'
+[2023.06.10-01.29.52:886][721]AssetCheck: New page: アセット保存：UMG_Title
+[2023.06.10-01.29.52:886][721]LogContentValidation: Display: WidgetBlueprint /Game/motomura/UMG/UMG_Title.UMG_Title を検証しています
+[2023.06.10-01.32.30:799][336]LogSlate: Window 'カラー ピッカー' being destroyed
+[2023.06.10-01.32.36:099][765]LogSlate: Window 'カラー ピッカー' being destroyed
+[2023.06.10-01.32.37:804][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/motomura/UMG/UMG_Title" FILE="../../../../../../pg/tataku/tatakugame/Content/motomura/UMG/UMG_Title.uasset" SILENT=true
+[2023.06.10-01.32.37:810][903]LogSavePackage: Moving '../../../../../../pg/tataku/tatakugame/Saved/UMG_Title8EC600244E51116AB054A98C38880583.tmp' to '../../../../../../pg/tataku/tatakugame/Content/motomura/UMG/UMG_Title.uasset'
+[2023.06.10-01.32.37:835][903]AssetCheck: New page: アセット保存：UMG_Title
+[2023.06.10-01.32.37:835][903]LogContentValidation: Display: WidgetBlueprint /Game/motomura/UMG/UMG_Title.UMG_Title を検証しています
+[2023.06.10-01.32.38:230][934]BlueprintLog: New page: UMG_Title をコンパイル
+[2023.06.10-01.32.38:274][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.06.10-01.32.43:855][442]LogTemp: Repeating last play command: 選択ビューポート
+[2023.06.10-01.32.43:868][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.10-01.32.43:868][442]PIE: New page: PIEセッション: Title (2023/06/10 19:32:43)
+[2023.06.10-01.32.43:870][442]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.10-01.32.43:871][442]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.10-01.32.43:872][442]LogPlayLevel: Creating play world package: /Game/motomura/Level/UEDPIE_0_Title
+[2023.06.10-01.32.43:872][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000634s)
+[2023.06.10-01.32.43:874][442]LogAIModule: Creating AISystem for world Title
+[2023.06.10-01.32.43:874][442]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2023.06.10-01.32.43:874][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/motomura/Level/Title.Title to /Game/motomura/Level/UEDPIE_0_Title.Title (0.001823s)
+[2023.06.10-01.32.43:895][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.10-01.32.43:896][442]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.10-01.32.43:896][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.10-01.32.43:896][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.10-01.32.43:897][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.10-01.32.43:897][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.10-01.32.43:897][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.10-01.32.43:897][442]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.10-01.32.43:900][442]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.10-01.32.43:900][442]LogAudioMixer: Display: 1: FrontRight
+[2023.06.10-01.32.43:934][442]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2023.06.10-01.32.43:935][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.10-01.32.43:935][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.10-01.32.43:935][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.10-01.32.43:935][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.10-01.32.43:935][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.10-01.32.43:935][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.10-01.32.43:936][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.10-01.32.43:936][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.10-01.32.43:936][442]LogInit: FAudioDevice initialized.
+[2023.06.10-01.32.43:936][442]LogAudio: Display: Audio Device (ID: 2) registered with world 'Title'.
+[2023.06.10-01.32.43:949][442]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2023.06.10-01.32.43:950][442]LogWorld: Bringing World /Game/motomura/Level/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.06.10-10.32.43
+[2023.06.10-01.32.43:950][442]LogWorld: Bringing up level for play took: 0.000261
+[2023.06.10-01.32.43:950][442]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.06.10-01.32.43:955][442]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.06.10-01.32.43:958][442]PIE: サーバーにログインしました
+[2023.06.10-01.32.43:958][442]PIE: PIE合計開始時間 0.092 秒。
+[2023.06.10-01.32.47:606][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.10-01.32.47:606][845]LogWorld: BeginTearingDown for /Game/motomura/Level/UEDPIE_0_Title
+[2023.06.10-01.32.47:610][845]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.06.10-01.32.47:610][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-01.32.47:620][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.10-01.32.47:626][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-01.32.47:653][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.10-01.32.47:653][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.10-01.32.47:655][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.10-01.32.47:661][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.10-01.32.47:688][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.06.10-01.32.47:704][846]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.06.10-01.32.50:993][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.06.10-01.32.51:019][230]LogAssetEditorSubsystem: Opening Asset editor for World /Game/motomura/Level/Title.Title
+[2023.06.10-01.32.51:020][230]Cmd: MAP LOAD FILE="../../../../../../pg/tataku/tatakugame/Content/motomura/Level/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.10-01.32.51:020][230]LightingResults: New page: ライティングのビルド
+[2023.06.10-01.32.51:021][230]LoadErrors: New page: マップをロード中: Title.umap
+[2023.06.10-01.32.51:022][230]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.06.10-01.32.51:022][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-01.32.51:022][230]MapCheck: New page: マップをチェック
+[2023.06.10-01.32.51:022][230]LightingResults: New page: <何も選択されていません>
+[2023.06.10-01.32.51:039][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.10-01.32.51:041][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.10-01.32.51:042][230]LogAudio: Display: Audio Device (ID: 1) registered with world 'Title'.
+[2023.06.10-01.32.51:043][230]LogAIModule: Creating AISystem for world Title
+[2023.06.10-01.32.51:060][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.10-01.32.51:080][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.06.10-01.32.51:083][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.10-01.32.51:083][230]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.073ミリ秒かかりました。
+[2023.06.10-01.32.51:083][230]LogFileHelpers: Loading map 'Title' took 0.064
